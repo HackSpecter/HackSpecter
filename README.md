@@ -1,3 +1,5 @@
+![Banner](./animated_banner.svg)
+
 # 👋 Привет, я Khalid (HackSpecter)
 
 💻 Full-Stack Developer | Cybersecurity Enthusiast  
