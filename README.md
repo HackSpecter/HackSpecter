@@ -5,7 +5,6 @@ cybersecurity architect | software engineer.
 
 
 
-## 🛠️ Технологии и инструменты
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -20,7 +19,6 @@ cybersecurity architect | software engineer.
 
 
 
-## 📫 Контакты
 - Telegram: [@khstack](https://t.me/khstack)  
 
 
