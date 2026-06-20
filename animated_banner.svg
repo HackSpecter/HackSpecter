@@ -106,9 +106,9 @@
     <!-- soft shadow copy -->
     <text class="title g1" x="0" y="0">cybersecurity architect | software engineer.</text>
     <!-- slight offset green layer -->
-    <text class="title g2" x="2" y="4" style="fill:rgba(0,255,120,0.45)">Full-Stack | Cybersecurity</text>
+    <text class="title g2" x="2" y="4" style="fill:rgba(0,255,120,0.45)"></text>
     <!-- sharp front layer -->
-    <text class="title" x="0" y="0">Full-Stack | Cybersecurity</text>
+    <text class="title" x="0" y="0"></text>
 
     <!-- small subtitle -->
     <g transform="translate(0,34)">
