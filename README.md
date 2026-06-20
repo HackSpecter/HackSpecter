@@ -1,8 +1,7 @@
 ![Banner](./animated_banner.svg)
 
-# 👋 Привет, я Khalid (HackSpecter)
 
-💻 Full-Stack Developer | Cybersecurity Enthusiast  
+cybersecurity architect | software engineer.
 
 
 
@@ -19,12 +18,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+
 
 ## 📫 Контакты
-- Telegram: [@pythonixx](https://t.me/khstack)  
-- Email: *pythonist7@gmail.com*   
+- Telegram: [@khstack](https://t.me/khstack)  
 
----
 
 ⭐️ Подписывайтесь, чтобы следить за моими проектами!
