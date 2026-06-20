@@ -104,7 +104,7 @@
   <!-- main title group with glitch layers -->
   <g transform="translate(40,110)">
     <!-- soft shadow copy -->
-    <text class="title g1" x="0" y="0">Full-Stack | Cybersecurity </text>
+    <text class="title g1" x="0" y="0">cybersecurity architect | software engineer.</text>
     <!-- slight offset green layer -->
     <text class="title g2" x="2" y="4" style="fill:rgba(0,255,120,0.45)">Full-Stack | Cybersecurity</text>
     <!-- sharp front layer -->
@@ -112,7 +112,7 @@
 
     <!-- small subtitle -->
     <g transform="translate(0,34)">
-      <text class="sub small-fade" x="0" y="0">Khalid (HackSpecter) — Full-Stack Developer · Threat Analyst</text>
+      <text class="sub small-fade" x="0" y="0">cybersecurity architect | software engineer.</text>
     </g>
   </g>
 
@@ -139,6 +139,6 @@
   <rect x="0" y="178" width="1000" height="30" fill="#001a00" opacity="0.35" />
 
   <!-- accessibility: title & desc -->
-  <title>Animated banner — Full-Stack | Cybersecurity | React | TypeScript — Khalid (HackSpecter)</title>
+  <title>-</title>
   <desc>Neon hacker-style animated banner that fits GitHub README. Drop file into repo and embed with Markdown: ![Banner](./animated_banner.svg)</desc>
 </svg>
