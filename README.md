@@ -1,5 +1,5 @@
 
-Secure backends · mobile apps · self-hosted infrastructure · network engineering.
+Secure backends · mobile apps · self-hosted infrastructure · network engineering. 
 
 
 
