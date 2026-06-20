@@ -1,4 +1,4 @@
-
+![Banner](./animated_banner.svg)
 Secure backends · mobile apps · self-hosted infrastructure · network engineering. 
 
 
